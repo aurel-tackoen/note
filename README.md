@@ -1,6 +1,5 @@
 # note
 
-- Beta project management
-- Markdown cheatsheet
-- Notion integrations
-- Notion/Github Issue api connection : Done by Notion
+- [ ] Beta project management
+- [x] Markdown cheatsheet
+- [x] Notion/Github Issue api connection : Done by Notion
