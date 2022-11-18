@@ -6,3 +6,4 @@
 - [x] Nuxt V3
 - [x] Finished Preqin Pardot Integration
 - [x] PennyLane Migration
+- [ ] GraphyStories Lite
