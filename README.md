@@ -7,3 +7,4 @@
 - [x] Finished Preqin Pardot Integration
 - [x] PennyLane Migration
 - [ ] GraphyStories Lite
+- [ ] GraphyStories Chat GPT integration
