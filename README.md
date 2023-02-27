@@ -1,10 +1,3 @@
 # note
-
-- [x] Beta project management
-- [x] Markdown cheatsheet
-- [x] Notion/Github Issue api connection : Done by Notion
-- [x] Nuxt V3
-- [x] Finished Preqin Pardot Integration
-- [x] PennyLane Migration
 - [ ] GraphyStories Lite
 - [ ] GraphyStories Chat GPT integration
