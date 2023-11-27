@@ -6,4 +6,4 @@
 - [ ] Saas Time Encoder
 - [ ] Status Tracking
   - [x] SMS Notification
-  - [ ] Threading Gmail
+  - [x] Threading Gmail
