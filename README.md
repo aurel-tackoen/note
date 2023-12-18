@@ -5,6 +5,11 @@
 - [ ] Reboot script for all servers
 - [ ] Saas Time Encoder
 - [ ] Status Tracking
-  - [x] SMS Notification
+  - [] SMS Notification
+    - [x] Aurel SMS
+    - [ ] Mik SMS
+    - [ ] Val SMS
+    - [ ] Arturo SMS
+    - [ ] Clem SMS
   - [x] Threading Gmail
   - [ ] Resto Import
