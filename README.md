@@ -5,6 +5,7 @@
 - [ ] Reboot script for all servers
 - [ ] Saas Time Encoder
 - [ ] Status Tracking
+  - [ ] Clients Dashboard
   - [ ] SMS Notification
     - [x] Aurel SMS
     - [ ] Mik SMS
