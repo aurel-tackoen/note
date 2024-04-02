@@ -12,5 +12,3 @@
     - [ ] Val SMS
     - [ ] Arturo SMS
     - [ ] Clem SMS
-  - [x] Threading Gmail
-  - [ ] Resto Import
