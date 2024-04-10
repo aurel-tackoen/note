@@ -3,7 +3,8 @@
 - [ ] Reboot script for all servers
 - [ ] Saas Time Encoder V3
   - [ ] Datepicker
-  - [ ] Datepicker
+  - [ ] Better Select
+  - [ ] Tooltip
 - [ ] Status Tracking
   - [ ] Clients Dashboard
   - [ ] SMS Notification
