@@ -5,6 +5,7 @@
   - [ ] Datepicker
   - [ ] Better Select
   - [ ] Tooltip
+  - [ ] Project Name
 - [ ] Status Tracking
   - [ ] Clients Dashboard
   - [ ] SMS Notification
