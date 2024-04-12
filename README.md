@@ -7,6 +7,7 @@
   - [ ] Tooltip
   - [ ] Project Name
   - [ ] Save filter in URL
+  - [ ] Email TODO
 - [ ] Status Tracking
   - [ ] Clients Dashboard
   - [ ] SMS Notification
