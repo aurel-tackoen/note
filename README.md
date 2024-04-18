@@ -6,7 +6,7 @@
   - [ ] Better Select
   - [ ] Tooltip
   - [ ] Project Name
-  - [ ] Save filter in URL
+  - [ ] Save filter values in URL
 - [ ] Status Tracking
   - [ ] Clients Dashboard
   - [ ] SMS Notification
