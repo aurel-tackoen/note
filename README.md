@@ -5,7 +5,7 @@
   - [ ] Datepicker
   - [ ] Better Select
   - [ ] Tooltip
-  - [ ] Project Name
+  - [ ] Project Name editable
   - [ ] Save filter values in URL
 - [ ] Status Tracking
   - [ ] Clients Dashboard
