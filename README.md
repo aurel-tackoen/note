@@ -3,7 +3,7 @@
 - [ ] Reboot script for all servers
 - [ ] Saas Time Encoder V3
   - [ ] Datepicker
-  - [x] Better Select
+  - [x] Select Component
   - [ ] Tooltip
   - [ ] Project Name editable
   - [ ] Save filter values in URL
