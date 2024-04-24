@@ -1,6 +1,5 @@
 # note
 - [ ] Intercom Packages
-- [ ] Reboot script for all servers
 - [ ] Saas Time Encoder V3
   - [ ] Datepicker
   - [x] Select Component
