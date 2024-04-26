@@ -1,11 +1,12 @@
 # note
 - [ ] Intercom Packages
 - [ ] Saas Time Encoder V3
-  - [ ] Datepicker
+  - [x] TODO Jerem
+    - [ ] Project Name editable
+    - [ ] Save filter values in URL
   - [x] Select Component
+  - [ ] Datepicker
   - [ ] Tooltip
-  - [ ] Project Name editable
-  - [ ] Save filter values in URL
 - [ ] Status Tracking
   - [ ] Clients Dashboard
   - [ ] SMS Notification
