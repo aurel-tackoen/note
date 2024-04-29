@@ -2,7 +2,7 @@
 - [ ] Intercom Packages
 - [ ] Saas Time Encoder V3
   - [x] TODO Jerem
-    - [ ] Project Name editable
+    - [x] Project Name editable
     - [ ] Save filter values in URL
   - [x] Select Component
   - [ ] Datepicker
