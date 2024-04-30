@@ -3,7 +3,7 @@
 - [ ] Saas Time Encoder V3
   - [x] TODO Jerem
     - [x] Project Name editable
-    - [ ] Save filter values in URL
+    - [x] Save filter values in URL
   - [x] Select Component
   - [ ] Datepicker
   - [ ] Tooltip
