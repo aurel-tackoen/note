@@ -4,7 +4,7 @@
   - [x] TODO Jerem
     - [x] Project Name editable
     - [x] Save filter values in URL
-  - [x] Select Component
+    - [x] Select Component
   - [ ] Datepicker
   - [ ] Tooltip
 - [ ] Status Tracking
