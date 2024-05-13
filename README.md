@@ -5,7 +5,7 @@
     - [x] Project Name editable
     - [x] Save filter values in URL
     - [x] Select Component
-  - [ ] Datepicker
+    - [ ] Datepicker
   - [ ] Tooltip
 - [ ] Status Tracking
   - [ ] Clients Dashboard
