@@ -6,7 +6,8 @@
     - [ ] Save filter values in URL
     - [x] Select Component
     - [x] Datepicker
-    - [x] Datepicker + predefined range
+    - [x] Datepicker
+    - [ ] Predefined Daterange
   - [ ] Tooltip
 - [ ] Status Tracking
   - [ ] Clients Dashboard
