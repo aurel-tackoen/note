@@ -7,7 +7,7 @@
     - [x] Select Component
     - [x] Datepicker
     - [x] Datepicker
-    - [ ] Predefined Daterange
+    - [ ] Predefined Daterange (custom)
   - [ ] Tooltip
 - [ ] Status Tracking
   - [ ] Clients Dashboard
