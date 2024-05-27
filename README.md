@@ -8,6 +8,7 @@
     - [x] Datepicker
     - [x] Datepicker
     - [ ] Predefined Daterange (custom)
+    - [ ] Single page
   - [ ] Tooltip
 - [ ] Status Tracking
   - [ ] Clients Dashboard
