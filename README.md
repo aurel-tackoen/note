@@ -1,21 +1,11 @@
 # note
-- [ ] Intercom Packages
-- [ ] Saas Time Encoder V3
-  - [x] TODO Jerem
-    - [x] Project Name editable
-    - [ ] Save filter values in URL
-    - [x] Select Component
-    - [x] Datepicker
-    - [x] Datepicker
-    - [ ] Predefined Daterange (custom)
-    - [ ] Single page or filter ?
-    - [ ] arrow in select
+- [ ] Time Cod
+  - [x] Project Name editable
+  - [ ] Save filter values in URL
+  - [x] Select Component
+  - [x] Datepicker
+  - [x] Datepicker
+  - [ ] Predefined Daterange (custom)
+  - [ ] Single page or filter ?
+  - [ ] arrow in select
   - [ ] Tooltip
-- [ ] Status Tracking
-  - [ ] Clients Dashboard
-  - [ ] SMS Notification
-    - [x] Aurel SMS
-    - [ ] Mik SMS
-    - [ ] Val SMS
-    - [ ] Arturo SMS
-    - [ ] Clem SMS
