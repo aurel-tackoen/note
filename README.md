@@ -1,5 +1,5 @@
 # note
-- [ ] Time Cod
+- [ ] Time Code
   - [x] Project Name editable
   - [x] Select Component
   - [x] Datepicker
