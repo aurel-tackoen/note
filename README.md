@@ -8,4 +8,3 @@
   - [ ] Predefined Daterange (custom)
   - [ ] Single page
   - [ ] Tooltip
-  - [ ] SAAS
