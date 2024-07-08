@@ -7,4 +7,4 @@
   - [x] arrow in select
   - [ ] Predefined Daterange (custom)
   - [ ] Single page
-  - [ ] Tooltip
+  - [ ]
