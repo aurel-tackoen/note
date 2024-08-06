@@ -8,3 +8,4 @@
   - [ ] Predefined Daterange (custom)
   - [ ] Single page
   - [ ] Tooltip
+  - [ ] Users accounts
