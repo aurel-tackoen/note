@@ -9,4 +9,3 @@
   - [ ] Single page
   - [ ] Tooltip
   - [ ] Users accounts
-  - [ ]
