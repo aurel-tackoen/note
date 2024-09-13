@@ -5,6 +5,9 @@
   - [x] Datepicker
   - [x] Save filter values in URL
   - [x] arrow in select
+  - [ ] CSV Export
+    - [ ] Column Selector
+    - [ ] Pagination
   - [ ] Predefined Daterange (custom)
   - [ ] Single page
   - [ ] Tooltip
