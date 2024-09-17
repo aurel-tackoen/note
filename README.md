@@ -5,7 +5,7 @@
   - [x] Datepicker
   - [x] Save filter values in URL
   - [x] arrow in select
-  - [ ] CSV Export
+  - [x] CSV Export
     - [ ] Column Selector
     - [ ] Pagination
   - [ ] Predefined Daterange (custom)
