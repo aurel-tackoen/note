@@ -12,3 +12,6 @@
   - [ ] Single page
   - [ ] Tooltip
   - [ ] Users account
+- [ ] Graphy Check
+  - [ ] Api Key
+  - [ ] Highlight Changes
