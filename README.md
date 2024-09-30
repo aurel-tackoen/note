@@ -13,5 +13,5 @@
   - [ ] Tooltip
   - [ ] Users account
 - [ ] Graphy Check
-  - [ ] Api Key
-  - [ ] Highlight Changes
+  - [x] Api Key
+  - [x] Highlight Changes
