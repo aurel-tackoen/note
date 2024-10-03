@@ -16,4 +16,3 @@
   - [x] Api Key
   - [x] Highlight Changes
   - [ ] Access input area
-  - [ ] Next ?
