@@ -15,4 +15,5 @@
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
-  - [ ] Access input area
+  - [X] Access input area
+  - [ ] Format input area
