@@ -12,6 +12,7 @@
   - [ ] Single page
   - [ ] Tooltip
   - [ ] Users account
+  - [ ] Invoicable or not
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
