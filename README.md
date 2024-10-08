@@ -18,3 +18,4 @@
   - [x] Highlight Changes
   - [X] Access input area
   - [ ] Format input area
+  - [ ] Improve UX
