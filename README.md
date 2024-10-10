@@ -16,6 +16,6 @@
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
-  - [ ] Access input area
+  - [x] Access input area
   - [ ] Format input area
   - [ ] Improve UX
