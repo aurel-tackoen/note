@@ -19,3 +19,5 @@
   - [x] Access input area
   - [ ] Format input area
   - [ ] Improve UX
+  - [ ] OpenGraphy Branding
+  - [ ] Add to Market
