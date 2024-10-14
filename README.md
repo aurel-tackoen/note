@@ -18,6 +18,6 @@
   - [x] Highlight Changes
   - [x] Access input area
   - [ ] Format input area
-  - [ ] Improve UX
+  - [ ] Improve UX/UI
   - [ ] OpenGraphy Branding
   - [ ] Add to Market
