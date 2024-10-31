@@ -14,6 +14,7 @@
   - [ ] Tooltip
   - [ ] Users account
   - [ ] Invoicable or not
+  - [ ] Preselected timeslot (15/30/60)
 
 - [ ] Graphy Check
   - [x] Api Key
