@@ -6,7 +6,7 @@
   - [x] Save filter values in URL
   - [x] arrow in select
   - [x] CSV Export
-    - [ ] Column Selector
+    - [x] Column Selector
     - [ ] Pagination
   - [ ] View for monthly encoding
   - [ ] Predefined Daterange (custom)
@@ -22,5 +22,5 @@
   - [x] Access input area
   - [ ] Format input area
   - [ ] Improve UX/UI
-  - [ ] OpenGraphy Branding
+  - [x] OpenGraphy Branding
   - [ ] Add to Market
