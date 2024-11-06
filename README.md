@@ -20,7 +20,7 @@
   - [x] Api Key
   - [x] Highlight Changes
   - [x] Access input area
-  - [ ] Format input area
-  - [ ] Improve UX/UI
+  - [x] Format input area
+  - [x] Improve UX/UI
   - [x] OpenGraphy Branding
   - [ ] Add to Market
