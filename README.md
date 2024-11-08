@@ -11,7 +11,7 @@
   - [x] View for monthly encoding
   - [x] Predefined Daterange (custom)
   - [ ] Single page
-  - [] Tooltip
+  - [x] Tooltip
   - [ ] Users account
   - [ ] Invoicable or not
   - [ ] Preselected timeslot (15/30/60)
