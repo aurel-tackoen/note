@@ -7,6 +7,7 @@
   - [x] arrow in select
   - [x] CSV Export
     - [x] Column Selector
+    - [x] Column Selector Theme
     - [ ] Pagination
   - [x] View for monthly encoding
   - [x] Predefined Daterange (custom)
