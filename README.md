@@ -8,10 +8,10 @@
   - [x] CSV Export
     - [x] Column Selector
     - [ ] Pagination
-  - [ ] View for monthly encoding
-  - [ ] Predefined Daterange (custom)
+  - [x] View for monthly encoding
+  - [x] Predefined Daterange (custom)
   - [ ] Single page
-  - [ ] Tooltip
+  - [] Tooltip
   - [ ] Users account
   - [ ] Invoicable or not
   - [ ] Preselected timeslot (15/30/60)
