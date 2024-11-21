@@ -16,6 +16,7 @@
   - [ ] Users account
   - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
+  
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
