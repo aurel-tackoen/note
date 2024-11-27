@@ -17,7 +17,7 @@
   - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
   - [ ] Télétravail
-
+  - [ ] Github
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
