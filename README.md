@@ -29,4 +29,4 @@
   - [ ] Add to Market
 
 
-  NEBESTA
+  NEBESTA + Tags logic
