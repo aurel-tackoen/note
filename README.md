@@ -16,7 +16,7 @@
   - [ ] Users account
   - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
-  - [ ] Télétravail
+  - [x] Télétravail
   - [ ] Github
   
 - [ ] Graphy Check
@@ -27,6 +27,3 @@
   - [x] Improve UX/UI
   - [x] OpenGraphy Branding
   - [ ] Add to Market
-
-
-  NEBESTA + Tags logic
