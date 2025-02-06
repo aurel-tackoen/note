@@ -16,6 +16,7 @@
   - [ ] Users account
   - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
+  - [x] Vue Employés
   - [x] Télétravail
   - [ ] Github
   
