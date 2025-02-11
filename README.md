@@ -17,6 +17,7 @@
   - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
   - [x] Vue Employés
+  - [x] Vue Encodage Prestations
   - [x] Télétravail
   - [ ] Github
   
