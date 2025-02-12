@@ -8,18 +8,18 @@
   - [x] CSV Export
     - [x] Column Selector
     - [x] Column Selector Theme
-    - [ ] Pagination
   - [x] View for monthly encoding
   - [x] Predefined Daterange (custom)
-  - [ ] Single page
   - [x] Tooltip
-  - [ ] Users account
-  - [ ] Invoicable or not
   - [x] Preselected timeslot (15/30/60)
   - [x] Vue Employés
   - [x] Vue Encodage Prestations
   - [x] Télétravail
   - [ ] Github
+  - [ ] Users account
+  - [ ] Invoicable or not
+  - [ ] CSV Pagination
+  - [ ] Single page
   
 - [ ] Graphy Check
   - [x] Api Key
