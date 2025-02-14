@@ -28,4 +28,5 @@
   - [x] Format input area
   - [x] Improve UX/UI
   - [x] OpenGraphy Branding
+  - [ ] Secure Api Call
   - [ ] Add to Market
