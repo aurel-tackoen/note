@@ -19,7 +19,7 @@
   - [ ] Users account
   - [ ] Invoicable or not
   - [ ] CSV Pagination
-  - [ ] Single page
+  - [ ] Single page for items
   
 - [ ] Graphy Check
   - [x] Api Key
