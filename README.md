@@ -15,7 +15,7 @@
   - [x] Vue Employés
   - [x] Vue Encodage Prestations
   - [x] Télétravail
-  - [ ] Github
+  - [ ] Github : Link to issues
   - [ ] Users account
   - [ ] Invoicable or not
   - [ ] CSV Pagination
