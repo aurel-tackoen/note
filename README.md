@@ -20,6 +20,8 @@
   - [ ] Invoicable or not
   - [ ] CSV Pagination
   - [ ] Single page for items
+  - [ ] Missions
+    - [ ] New notion object
   
 - [ ] Graphy Check
   - [x] Api Key
