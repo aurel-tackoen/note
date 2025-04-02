@@ -15,6 +15,7 @@
   - [x] Vue Employés
   - [x] Vue Encodage Prestations
   - [x] Télétravail
+  - [ ] Bug select assignee
   - [ ] Link to Github Issue
   - [ ] Users account
   - [ ] Invoicable or not
