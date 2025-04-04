@@ -23,6 +23,8 @@
   - [ ] Single page for items
   - [ ] Missions
     - [ ] New notion object
+  - [ ] Export prestations to Notion
+
   
 - [ ] Graphy Check
   - [x] Api Key
