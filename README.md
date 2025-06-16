@@ -25,7 +25,6 @@
     - [ ] New notion object
   - [ ] Export prestations to Notion
   
-  
 - [ ] Graphy Check
   - [x] Api Key
   - [x] Highlight Changes
