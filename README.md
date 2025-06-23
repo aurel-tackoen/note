@@ -1,5 +1,5 @@
 # note
-- [ ] Time Code
+- [ ] TimeCode
   - [x] Project Name editable
   - [x] Select Component
   - [x] Datepicker
@@ -25,7 +25,7 @@
     - [ ] New notion object
   - [ ] Export prestations to Notion
   
-- [ ] Graphy Check
+- [ ] GraphyCheck
   - [x] Api Key
   - [x] Highlight Changes
   - [x] Access input area
