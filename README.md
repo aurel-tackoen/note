@@ -24,7 +24,6 @@
   - [ ] Missions
     - [ ] New notion object
   - [ ] Export prestations to Notion
-
   
 - [ ] GraphyCheck
   - [x] Api Key
