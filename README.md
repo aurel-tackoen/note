@@ -36,6 +36,6 @@
   - [ ] Add to Market
 
 - [ ] Graphyphone
-- [ ] AI Gen
+- [ ] App.OpenGraphy.com
 
   
