@@ -24,16 +24,6 @@
   - [ ] Missions
     - [ ] New notion object
   - [ ] Export prestations to Notion
-  
-- [ ] GraphyCheck
-  - [x] Api Key
-  - [x] Highlight Changes
-  - [x] Access input area
-  - [x] Format input area
-  - [x] Improve UX/UI
-  - [x] OpenGraphy Branding
-  - [ ] Secure Api Call
-  - [ ] Add to Market
 
 - [ ] Graphyphone
 - [ ] App.OpenGraphy.com
