@@ -27,5 +27,7 @@
 
 - [ ] Graphyphone
 - [ ] App.OpenGraphy.com
+    - [ ] Login Flow (Free/Invited)
+    - [ ] Credits Usage
 
   
