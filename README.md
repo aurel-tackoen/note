@@ -27,7 +27,10 @@
 
 - [ ] Graphyphone
 - [ ] App.OpenGraphy.com
-    - [ ] Login Flow (Free/Invited)
-    - [ ] Pricing + Credits Usage
+    - [ ] Login Flow Free
+    - [ ] Login Flow Paying
+    - [x] Login Flow Invited
+    - [ ] Onboarding
+    - [x] Pricing + Credits Usage
 
   
