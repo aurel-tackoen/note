@@ -30,6 +30,7 @@
     - [ ] Login Flow Free
     - [ ] Login Flow Paying
     - [x] Login Flow Invited
+    - [x] Credits Balance
     - [ ] Onboarding
     - [x] Pricing + Credits Usage
 
