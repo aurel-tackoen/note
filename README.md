@@ -31,6 +31,9 @@
     - [ ] Login Flow Paying
     - [x] Login Flow Invited
     - [x] Credits Balance
+      - [x] Subscription
+      - [x] Add Credits
+      - [x] Reset Credits
     - [ ] Onboarding
     - [x] Pricing + Credits Usage
 
