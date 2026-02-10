@@ -27,14 +27,16 @@
 
 - [ ] Graphyphone
 - [ ] App.OpenGraphy.com
-    - [ ] Login Flow Free
-    - [ ] Login Flow Paying
+    - [x] Login Flow Free
+    - [x] Login Flow Paying
     - [x] Login Flow Invited
     - [x] Credits Balance
       - [x] Subscription
       - [x] Add Credits
       - [x] Reset Credits
     - [ ] Onboarding
+    - [x] Github Project
+      - [x] Issue Template
     - [x] Pricing + Credits Usage
 
   
