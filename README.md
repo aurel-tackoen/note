@@ -38,6 +38,5 @@
     - [x] Github Project
       - [x] Issue Template
     - [x] Pricing + Credits Usage
-    - [x] to check
 
   
