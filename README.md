@@ -24,3 +24,5 @@
   - [ ] Missions
     - [ ] New notion object
   - [ ] Export prestations to Notion
+
+- Millon
