@@ -25,4 +25,7 @@
     - [ ] New notion object
   - [ ] Export prestations to Notion
 
-  
+  - [ ] Millon
+    - [ ] Helpdesk
+    - [ ] Estim
+    - [ ] ThePackengers
