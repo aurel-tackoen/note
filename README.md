@@ -27,6 +27,6 @@
 
   - [ ] Millon
     - [ ] Helpdesk
-    - [ ] Estim + Reporting
+    - [ ] Estim Refonte + Reporting
     - [ ] ThePackengers
     - [ ] Leads
