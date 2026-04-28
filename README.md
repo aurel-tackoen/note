@@ -30,6 +30,7 @@
     - [ ] Estim Refonte
       - [ ] Reporting
       - [ ] Customer pages
-      - [ ] Forms
+      - [ ] Forms pages
+      - [ ] Auth Process
     - [ ] ThePackengers
     - [ ] Leads
