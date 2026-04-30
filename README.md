@@ -32,5 +32,7 @@
       - [ ] Customer pages
       - [ ] Forms pages
       - [ ] Auth Process
+      - [ ] Translations Backend
+      - [ ] Translations Frontend
     - [ ] ThePackengers
     - [ ] Leads
