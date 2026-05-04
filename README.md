@@ -34,5 +34,6 @@
       - [ ] Auth Process
       - [ ] Translations Backend
       - [ ] Translations Frontend
+      - [ ] WhatsApp
     - [ ] ThePackengers
     - [ ] Leads
