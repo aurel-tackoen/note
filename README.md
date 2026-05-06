@@ -28,6 +28,7 @@
   - [ ] Millon
     - [ ] Helpdesk
     - [ ] Estim Refonte
+      - [x] Frontend
       - [ ] Reporting
       - [ ] Customer pages
       - [ ] Forms pages
