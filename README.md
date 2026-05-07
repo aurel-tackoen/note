@@ -26,7 +26,7 @@
   - [ ] Export prestations to Notion
 
   - [ ] Millon
-    - [ ] Helpdesk
+    - [x] Helpdesk
     - [ ] Estim Refonte
       - [x] Frontend
       - [ ] Reporting
