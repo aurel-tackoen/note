@@ -29,12 +29,15 @@
     - [x] Helpdesk
     - [ ] Estim Refonte
       - [x] Frontend
-      - [ ] Reporting
+      - [x] Reporting
       - [ ] Customer pages
       - [ ] Forms pages
       - [ ] Auth Process
       - [ ] Translations Backend
       - [ ] Translations Frontend
       - [ ] WhatsApp
+        - [ ] Conversations
+        - [ ] N8N ?
+        - [ ] Authentification
     - [ ] ThePackengers
     - [ ] Leads
