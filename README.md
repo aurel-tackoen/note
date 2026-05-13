@@ -40,7 +40,6 @@
         - [x] augmenter le prix des nombre dans estim
         - [x] Age > nb jour
         - [x] Refactor Homepage
-
       - [ ] Customer pages
       - [ ] Forms pages
       - [ ] Auth Process
