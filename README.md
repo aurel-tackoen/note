@@ -33,14 +33,15 @@
         - [x] Mois le mois
         - [x] single experts
         - [ ] automatiser le transfer de demande ?
-        - [ ] délais de réponse client
+        - [x] délais de réponse client
           - [ ] informations complémentaire
         - [x] afficher les prix dans objets recus
-        - [ ] case a cocher au lieu pour statut
+        - [x] case a cocher au lieu pour statut
         - [x] augmenter le prix des nombre dans estim
         - [x] Age > nb jour
         - [x] Refactor Homepage
       - [ ] Customer pages
+      - [ ] Public pages
       - [ ] Forms pages
       - [ ] Auth Process
       - [ ] Translations Backend
